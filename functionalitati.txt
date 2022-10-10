@@ -1,0 +1,10 @@
+-upload la poza de profil pentru pet sau owner
+-vizualizare calendar cu programari pentru owner si vet
+-search cu filtru dupa data/ora dupa owner/vet/pet
+
+-forgot and reset password 
+-verificare recaptcha
+-creare fisier xml cu login logout la owneri
+
+-ownerul primeste email cu detalii despre programare dupa ce isi face o programare
+-veterinarul primeste notificare prin webSocket atunci cand un owner face o programare
