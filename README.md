@@ -6,21 +6,21 @@ frontend and MySQL for the data base, also the testing part is made in Intellij 
 annotation, and the data base connection test is made with Postman. 
 
 # Functionalities
- Register, login and forgot password with capcha validation 
+ ### Register, login and forgot password with capcha validation 
 ![image](https://github.com/user-attachments/assets/37125e8a-5981-42f7-ac6e-84def623dc27)
 ![image](https://github.com/user-attachments/assets/30c5df26-b969-4d33-a87c-0b2b806624ae)
 ![image](https://github.com/user-attachments/assets/ea6b2ba5-0197-4dcc-8924-cccda2957f53)
 
-  Menu
+ ### Menu
 ![image](https://github.com/user-attachments/assets/808878a4-c2d1-4c56-9e8b-14789a919ae6)
 
-  Pet Management
+ ### Pet Management
 ![image](https://github.com/user-attachments/assets/991a065d-370a-427c-9993-10fdd8f61d25)
 
-  Appointment Management
+ ### Appointment Management
 ![image](https://github.com/user-attachments/assets/fdbb1847-b2c5-45af-84cd-082a34c2a7fc)
 
-  Schedule Callendar
+ ### Schedule Callendar
 ![image](https://github.com/user-attachments/assets/74e80099-4f4a-42e3-9c1b-26643e8b969f)
 
 
